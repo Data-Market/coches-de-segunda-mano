@@ -22,7 +22,7 @@ Este repositorio contiene los siguientes recursos:
 
 ## Muestra
 
-La muestra se encuentra disponible para descarga en el siguiente [link]().
+La muestra se encuentra disponible para descarga en el siguiente [link](https://github.com/Data-Market/coches-de-segunda-mano/blob/main/coches-de-segunda-mano-sample.csv).
 
 ## Documentación
 
