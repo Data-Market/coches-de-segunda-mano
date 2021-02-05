@@ -1,4 +1,4 @@
-# Datasets de Venta de Coches de Segunda Mano
+# Datasets de Coches de Segunda Mano
 <a href="https://datamarket.es">
   <img src="https://datamarket.es/static/core/img/banners/venta-de-coches-banner.png">
 </a>
@@ -13,7 +13,7 @@ Las características de este dataset son las siguientes:
 * __Volumen estimado__: 300.000 de registros cada día
 * __Histórico__: disponible desde noviembre de 2020
 
-El dataset completo se puede adquirir en [DataMarket](https://datamarket.es/#venta-de-coches-dataset), plataforma de referencia de datos externos en España. 
+El dataset completo se puede adquirir en [DataMarket](https://datamarket.es/#venta-de-coches-de-segunda-mano-dataset), plataforma de referencia de datos externos en España. 
 
 Este repositorio contiene los siguientes recursos:
 
