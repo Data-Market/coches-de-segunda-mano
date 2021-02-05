@@ -10,8 +10,8 @@ Anuncios de venta de coches en las __principales plataformas__.
 Las características de este dataset son las siguientes:
 
 * __Frecuencia de actualización__: diariamente
-* __Volumen estimado__: 
-* __Histórico__: 
+* __Volumen estimado__: 300.000 de registros cada día
+* __Histórico__: disponible desde noviembre de 2020
 
 El dataset completo se puede adquirir en [DataMarket](https://datamarket.es/#venta-de-coches-dataset), plataforma de referencia de datos externos en España. 
 
