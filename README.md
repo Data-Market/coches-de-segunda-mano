@@ -32,6 +32,7 @@ A continuación se muestran las columnas de las que consta el dataset en el form
 |--------|------|-------------|---------|
 | color | str | Color del vehículo. |  Gris / Plata (GRIS) |
 | company | str | Web de donde se ha realizado la extracción del anuncio (encriptado). Estará disponible tras la suscripción al dataset. | 9881BCDD5A0AD4733037B3FB25E69C3A |
+| country | str | País donde se vende el vehículo. | España |
 | dealer | str | Vendedor del vehículo. En el caso de vendedores particulares (no concesionarios), esta información está encriptada en el dataset para cumplir con la GDPR. | Autoplanet |
 | doors | int | Número de puertas del vehículo. | 5 |
 | fuel | str | Tipo de combustible del vehículo (diésel, gasolina, eléctrico, híbrido). | Híbrido |
