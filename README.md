@@ -41,7 +41,6 @@ A continuación se muestran las columnas de las que consta el dataset en el form
 | kms | int | Kilometraje del vehículo. | 78742 |
 | make | str | Marca del coche. | LEXUS |
 | model | str | Modelo del vehículo. | NX |
-| phone | int | Número de teléfono del vendedor. En el caso de vendedores particulares esta información está encriptada para cumplir con la GDPR. | 654543432 |
 | photos | int | Número de fotografías del vehículo disponibles en el anuncio. | 32 |
 | power | int | Potencia del vehículo. | 197 |
 | price | int | Precio de venta del vehículo. | 27900 |
@@ -49,5 +48,6 @@ A continuación se muestran las columnas de las que consta el dataset en el form
 | province | str | Provincia donde se vende el vehículo. | Madrid |
 | publish_date | datetime | Fecha de publicación del anuncio. |  2020-10-30 11:24:56 |
 | shift | str | Tipo de cambio (Automático/Manual). | Automático |
+| url | str | Url del coche de segunda mano en venta. | 2e6ffb51e1ddb2db51d3cf56a4406f6c |
 | version | str | Versión del vehículo. | LEXUS NX 300h F Sport 4WD Navibox 5p. |
 | year | int | Año de fabricación del vehículo. | 2015 |
