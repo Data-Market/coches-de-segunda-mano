@@ -1,6 +1,6 @@
 # Dataset de Coches de Segunda Mano
 <a href="https://datamarket.es">
-  <img src="https://datamarket.es/static/core/img/banners/coches-de-segunda-mano-banner.png">
+  <img src="https://datamarket.es/media/banners/coches-de-segunda-mano-banner.png">
 </a>
 
 ## Descripción
