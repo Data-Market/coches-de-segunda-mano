@@ -11,7 +11,7 @@ Las características de este dataset son las siguientes:
 
 * __Frecuencia de actualización__: diariamente
 * __Volumen estimado__: 300.000 registros cada día
-* __Histórico__: disponible desde noviembre de 2020
+* __Histórico__: disponible desde noviembre de 2020 en adelante
 
 El dataset completo se puede adquirir en [DataMarket](https://datamarket.es/#coches-de-segunda-mano-dataset), plataforma de referencia de datos externos en España. 
 
